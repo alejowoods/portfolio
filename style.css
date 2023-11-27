@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+p {
+    border:2px solid lightgray;
+}
+
+/*Hero section*/
+
+.hero {
+    border: 2px solid darkgreen;
+}
+
+#languages {
+    width: 30%;
+    border: 2px solid brown;
+}
+
+#profile-foto{
+    width: 10%; /* Establece el tamaño de la imagen al 10% del ancho del div */
+    height: auto; /* Mantiene la proporción de la imagen */
+    top: 0; /* Ajusta la posición superior según tus preferencias */
+    left: 0; /* Ajusta la posición izquierda según tus preferencias */
+}
+
+/*Body section: skills*/
+
+.skills {
+    border: 2px solid darkred;
+    flex-wrap wrap;
+}
+
+/*Body section: my work*/
+
+/*Body section: contact form*/
+
+/*Body section: footer*/
+
